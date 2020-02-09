@@ -1,0 +1,5 @@
+export const GET_SESSIONS = "GET_SESSIONS";
+// export const CLEAR_DATA = "CLEAR_DATA";
+// export const ADD_CERTIFICATE = "ADD_CERTIFICATE";
+// export const REMOVE_STATE = "REMOVE_STATE";
+// export const REMOVE_CERTIFICATE = "REMOVE_CERTIFICATE";

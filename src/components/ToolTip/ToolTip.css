@@ -1,0 +1,8 @@
+.tippy-popper .dark-theme{
+    background-color: #fb6c6c;
+    font-weight: 600;
+    max-width:200px;
+}
+.tippy-popper .dark-theme .arrow-regular{
+    border-top: 7px solid #fb6c6c;
+}
