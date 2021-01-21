@@ -15,7 +15,7 @@
     "customize-cra": "^0.8.0",
     "env-cmd": "^10.0.1",
     "google-libphonenumber": "^3.2.6",
-    "immer": "^4.0.0",
+    "immer": "^8.0.1",
     "jwt-decode": "^2.2.0",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
